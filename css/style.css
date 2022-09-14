@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+.start.list {
+	color: darkgoldenrod;
+}
+p {
+	color: paleturquoise;
+}
+#fontan {
+ color: saddlebrown;
+}
+p.red {
+	color: red;
+}
+p.green {
+	color: green;
+}
+p.yellow {
+	color: yellow;
+}
+#home {
+ color: palevioletred;
+}
+.pre-list,
+.first-list {
+	color: slateblue;
+	font-family: "Lato";
+}
+#feeder {
+ color: salmon;
+}
+#sauna {
+	color: seagreen;
+}
+.first-par {
+	color: darkgrey;
+	font-family: "Lato";
+	font-weight: 500;
+}
+.second-par {
+	color: darkgreen;
+	font-family: "Lato";
+	font-weight: 900;
+}
+.automatic * {
+	color: darkcyan	;
+}
+#automatic {
+ color: sandybrown;
+}
+.toys p {
+	color: darkblue;
+}
+#toys {
+ color: sienna;
+}
+.video .purple {
+	color: purple;
+}
+div #video {
+ color: skyblue;
+}
+h3 {
+	color: darkkhaki;
+}
+.different > p {
+	color: darkmagenta;
+}
+.paragraph-one p {
+	font-family: "Larsseit";
+	color: darkorchid;
+}
+.paragraph-two p {
+	font-family: "Larsseit";
+	font-weight: 500;
+	color: gold;
+}
+.different-two ~ p {
+	color: darkolivegreen;
+}
+.paragraph-three p {
+	font-family: "Larsseit";
+	font-weight: 700;
+	color: goldenrod;
+}
+.different-three + P {
+	color: darkorange;
+}
+.roboto p {
+	font-family: "Roboto";
+	color: gray;
+}
+p.medium {
+	font-weight: 500;
+	color: greenyellow;
+}
+p.bold {
+	font-weight: 700;
+	color: hotpink;
+}
+p.black{
+	font-weight: 900;
+	color: khaki;
+}
